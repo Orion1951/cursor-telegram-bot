@@ -183,4 +183,3 @@ Per-session bot tokens live in `.env`; keys **must match** each session’s `bot
 - **Silent pinning refusal** (ADR 0012): non-operator senders are dropped locally with **logs only** — no Telegram reply.
 
 - Telegram still delivers unsolicited private-chat updates ([Bots FAQ](https://core.telegram.org/bots/faq)); this bridge is the enforcement boundary.
-

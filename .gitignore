@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+.env.local
+sessions/manifest.yaml
+pnpm-debug.log
+*.log

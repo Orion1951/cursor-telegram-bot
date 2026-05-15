@@ -1,0 +1,9 @@
+sessions:
+  - id: medical
+    displayName: Medical effort
+    workspacePath: ../path/to/medical/repo
+    botTokenEnv: TELEGRAM_BOT_TOKEN
+  - id: sports-betting
+    displayName: Sports betting effort
+    workspacePath: ../path/to/sports-betting/repo
+    botTokenEnv: TELEGRAM_BOT_TOKEN
